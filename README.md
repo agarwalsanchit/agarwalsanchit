@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sanchit Agarwal
+- 👀 I’m interested in Data Analytics and Machine Learning
+- 🌱 I’m currently a Purdue University Grad student, learning Analytics tools- Python, SQL, Tableau, SAS
+- 💞️ I’m looking to collaborate on ML and DS projects that hold real world applications (also open to some other projects and internship opportunities you may have.)
+- 📫 How to reach me email:agarwalsanchit@live.com and Linkedin: https://www.linkedin.com/in/sanchit-agarwal-17215b137/
